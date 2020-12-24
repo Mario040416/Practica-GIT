@@ -1,5 +1,7 @@
 Hola, mi nombre es Mario Alberto Rojas Mascorro
 Y estoy practicando GIT
 Tengo 20 años cumplidos
+Además, vivo en Santa Catarina, Nuevo Leon
 Y proximamente viviré en Canada
 Quiero Trabajar Programando
+
