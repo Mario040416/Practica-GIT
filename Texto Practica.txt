@@ -5,9 +5,6 @@ Además, vivo en Santa Catarina, Nuevo Leon
 Y proximamente viviré en Canada
 Quiero Trabajar Programando
 Actualmente estoy estudiando una licenciatura en Matematicas
-<<<<<<< HEAD
 Quiero hacer la maestria en Computo Estadistico en el CIMAT
-=======
 Para posgrado pienso hacer una maestria en México y luego en Canada
 Quiero hacer la maestria en Computo Estadistico en el CIMAT
->>>>>>> Auxiliar
